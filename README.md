@@ -1,33 +1,15 @@
 ## Projeto Robô Explorador Remotamente Controlado
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martelima/Rob-_E_R_C_BT_MNR_2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Componentes Utilizados
+  * 2X Arduinos Uno R3
+  * 1X Módulo Bluetooth HC-05 ou HC-06
+  * 1X Shield Ponte H L293D
+  * 2X paineis LED
+  * 4X Motores DC com caixa de Redução e Rodinhas
+  * 1X Sensor LDR 
+  * 1X Fonte ou Bateria entre 5V a 12V.
+  * 1X caixa de central de alarme
+  * 4X cantoneiras para fixação dos motores 
+### Etapas:
+  1. Disposição de componentes
+     Verificamos onde seriam os furos e onde fixariamos os componentes na caixa de central de alarme, porém caso seja utilizado um outro tipo de chassi recomenda-se que siga o mesmo procedimento 
