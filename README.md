@@ -20,6 +20,7 @@
      Listamos todas portas de entrada e saída de sinal ou energia, para ver os pontos em comum que podemos fazer e reduzir a quantidade de fios e jumpers, e pré estabelecemos as portas que serão utilizadas pelo controlador e anotamos o que cada porta deve fazer.Exemplo:
      
      A0->Sensor de Luz
+     
      D3->Painel LED
      
      Assim facilitamos a organização previa da proxima etapa.
