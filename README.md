@@ -11,5 +11,7 @@
   * 1X caixa de central de alarme
   * 4X cantoneiras para fixação dos motores 
 ### Etapas:
-  1. Disposição de componentes
-     Verificamos onde seriam os furos e onde fixariamos os componentes na caixa de central de alarme, porém caso seja utilizado um outro tipo de chassi recomenda-se que siga o mesmo procedimento 
+  1. Disposição de componentes:
+  
+     Verificamos onde seriam os furos e onde fixariamos os componentes na caixa de central de alarme, porém caso seja utilizado um outro tipo de chassi recomenda-se que siga o mesmo procedimento, ou seja verifique o posicionamento dos componentes que utilizar pois isso influenciará no modo como os fios serão dispostos e as soldas que serão realizadas.
+     
