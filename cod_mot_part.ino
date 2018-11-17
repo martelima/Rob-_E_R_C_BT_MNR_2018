@@ -96,14 +96,14 @@ void loop() {
     motor_esq.run(FORWARD);
   }
 
-  else if (state == 'I') {  // Se o estado recebido for igual a 'I', o carro se movimenta para Frente Esquerda.
+  else if (state == 'G') {  // Se o estado recebido for igual a 'I', o carro se movimenta para Frente Esquerda.
     motor_dir.setSpeed(vSpeed_dir);
     motor_dir.run(FORWARD);
     motor_esq.setSpeed(vSpeed_esq);
     motor_esq.run(RELEASE);
   }
 
-  else if (state == 'G') {   // Se o estado recebido for igual a 'G', o carro se movimenta para Frente Direita.
+  else if (state == 'I') {   // Se o estado recebido for igual a 'G', o carro se movimenta para Frente Direita.
     motor_dir.setSpeed(vSpeed_dir);
     motor_dir.run(RELEASE);
     motor_esq.setSpeed(vSpeed_esq);
